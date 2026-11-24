@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Moy 👋
 
-<!--
-**crankvase/crankvase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Luis Moisés Velásquez López** — Junior Full-Stack Developer based in Oaxaca, México.
 
-Here are some ideas to get you started:
+I'm looking for junior / remote roles working with **React, Node.js, Python and APIs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+React 19 · Node.js · Express · MySQL · Python · HTML · CSS · JavaScript · PHP · Socket.io · Tailwind CSS
+
+## Featured project
+
+**KORIUM / PETOVIX** — a full-stack veterinary platform. Currently in local development; it will be published here soon.
+
+## Contact
+
+- 📧 velasquez01abrilcp@gmail.com
+- 💻 github.com/crankvase
