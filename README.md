@@ -1,4 +1,4 @@
-# Hi, I'm Moy 👋
+# Hi, I'm Moy 
 
 **Luis Moisés Velásquez López** — Junior Full-Stack Developer based in Oaxaca, México.
 
